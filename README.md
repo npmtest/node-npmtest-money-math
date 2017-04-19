@@ -1,4 +1,7 @@
-# test coverage for  [money-math (v2.5.0)](https://github.com/ikr/money-math#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-money-math.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-money-math) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-money-math.svg)](https://travis-ci.org/npmtest/node-npmtest-money-math)
+# npmtest-money-math
+
+#### basic test coverage for  [money-math (v2.5.0)](https://github.com/ikr/money-math#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-money-math.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-money-math) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-money-math.svg)](https://travis-ci.org/npmtest/node-npmtest-money-math)
+
 #### jsbn-based arbitrary precision operations on currency amounts "XXX.YY"; because floats are BAD for representing money
 
 [![NPM](https://nodei.co/npm/money-math.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/money-math)
